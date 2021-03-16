@@ -12,4 +12,3 @@ display_rainbow(color[3])
 display_rainbow(color[4])
 display_rainbow(color[5])
 display_rainbow(color[6])
-
