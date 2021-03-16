@@ -1,6 +1,6 @@
 #display_rainbow
 def display_rainbow(color, letter)
-  color = ["red", "orange", "yellow", "green", "blue", 'indigo", "violet"])
+  color = ["red", "orange", "yellow", "green", "blue", 'indigo", "violet"]
   letter = ["R", "O", "Y", "G", "B", "I", "V"]
   print "#{letter[0]}: #{color[0], "
   print "#{letter[1]}: #{color[1], "
