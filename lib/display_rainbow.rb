@@ -12,4 +12,3 @@ def display_rainbow(color, letter)
 end
 
 display_rainbow()
-
